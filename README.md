@@ -14,7 +14,7 @@ An e-commerce website built using React and Redux is a powerful and flexible sol
 
 
 
-## Techstack Used
+## Techstacks Used
 ReactJS<br>
 Redux<br>
 CSS<br>

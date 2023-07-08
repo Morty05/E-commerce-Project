@@ -6,19 +6,16 @@ An e-commerce website built using React and Redux which is a powerful and flexib
 
 ### Responsive Design
 
-<img src="https://github.com/Morty05/E-commerce-Project/assets/97411153/e36c1be8-c881-4625-92dc-f36f58fdf532" width=70% height=40%>
 
-<img src="https://github.com/Morty05/E-commerce-Project/assets/97411153/35241b65-2c13-47dc-a4e0-f2ae42dadd15" width=25% height=50%>
+<img width="245" height= "450" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/d3c69292-b69d-40df-bb6d-8aeaa0b9b7a0">
+
+<img width="245" height= "450" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/916d61cc-74fe-47ea-802c-00726ed67244">
+<img width="245" height= "450"  alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/a3b80f24-506d-495b-8f72-3433e6ca0008">
+<img width="245" height= "450" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/8f45c4c5-505f-4bd7-8a7f-2df7e6765305">
 
 
 
 
-
-## Techstacks Used
-ReactJS<br>
-Redux<br>
-CSS<br>
-Axios
 
 ## Functionalities
 Register User<br>
@@ -30,8 +27,54 @@ Review Cart and Checkout <br>
 Payment Page <br>
 
 
-<img src="https://github.com/Morty05/E-commerce-Project/assets/97411153/4ee59e96-2358-47e5-88ba-b2f79fbaa233" width=70% height=40%>
-<img src="https://github.com/Morty05/E-commerce-Project/assets/97411153/b22e0b72-6e2f-484d-8b49-f394b77bf27a" width=70% height=40%>
+
+
+
+
+
+## Loader Page
+
+![image](https://github.com/Morty05/E-commerce-Project/assets/97411153/8a6d5913-5e7a-4007-a9ea-5d44edda4e2c)
+
+## Register/Login User
+
+<img width="294" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/98ce11c8-57df-4a7d-b576-85c617df5d57">
+
+<img width="302" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/8b35f8a0-bf00-4e19-9f4c-6b79888edb31">
+<img width="297" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/a06908b7-94b9-42f8-8c76-43233a5ba69a">
+
+
+## Home Page
+
+<img width="959" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/ba6846d2-a841-4456-9325-8c80e95ed18c">
+
+## Product Page
+
+<img width="957" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/f4ac472d-552e-4f3e-a52d-01b1e33dc485">
+
+## Cart Page
+
+<img width="960" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/9fbabd67-9485-4071-a880-60c14d447e3a">
+
+## Payment Page
+
+<img width="960" alt="image" src="https://github.com/Morty05/E-commerce-Project/assets/97411153/1deb5596-c7ea-4a8a-baa5-5deb4efce172">
+
+
+
+
+## Techstacks Used
+ReactJS<br>
+Redux<br>
+Javascript<br>
+CSS<br>
+Chakra UI<br>
+
+
+
+
+
+
 
 
 

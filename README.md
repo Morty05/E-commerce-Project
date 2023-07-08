@@ -1,5 +1,5 @@
 # ExpressTech
-An e-commerce website built using React and Redux is a powerful and flexible solution for creating an online store with a seamless user experience and efficient state management. React is a popular JavaScript library for building user interfaces, while Redux is a predictable state container that helps manage the application's state in a more organized and scalable way.
+An e-commerce website built using React and Redux which is a powerful and flexible solution for creating an online store with a seamless user experience and efficient state management. React is a popular JavaScript library for building user interfaces, while Redux is a predictable state container that helps manage the application's state in a more organized and scalable way.
 
 
 ## Main Aspects
